@@ -11,7 +11,13 @@ namespace MyExperimental
         static void Main(string[] args)
         {
             
-            Console.WriteLine("Hello world");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
+            Console.WriteLine("hi");
         }
     }
 }
